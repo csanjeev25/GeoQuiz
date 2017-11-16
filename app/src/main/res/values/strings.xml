@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Constantinople is largest city in Turkey</string>
+    <string name="false_button">false</string>
+    <string name="true_button">true</string>
+    <string name="action_setting">Settings</string>
+    <string name="false_answer">False</string>
+    <string name="true_answer">True</string>
+    <string name="next_button">Next</string>
+    <string name="question_ocean">Pacific Ocean is larger than Atlantic Ocean</string>
+    <string name="question_mid_east">The Suez Canel connects Red Sea and Indian Ocean</string>
+    <string name="question_africa">The Source of Nile is in Egypt</string>
+    <string name="question_america">Amazon River is longest</string>
+    <string name="question_asia">Lake Baikal is world\'s oldest and deepest freshwater lake</string>
+    <string name="correct_toast">Valar Morghulis</string>
+    <string name="incorrect_toast">Valar Dohaeris</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat</string>
+</resources>
